@@ -1,6 +1,6 @@
 import './App.css';
-import BillingPlan from '../components/billing-plan';
-import Statistic from '../components/statics';
+import BillingPlan from './components/billing-plan';
+import Statistic from './components/statics';
 
 function App() {
   let plans = [{
